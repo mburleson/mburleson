@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi There!
+
+My name is Megan Burleson, and I am a designer & developer.
+
+I spread happiness by combining creativity with {code} to craft websites and apps that are fun, usable and accessible to everyone.
 
 <!--
 **mburleson/mburleson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
