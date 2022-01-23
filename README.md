@@ -56,7 +56,7 @@ I love HTML, CSS, JavaScript and learning all the cool stuff I can do with them!
 
 <h2>See More:</h2>
 
-(coming soon...)
+[Responsive Web Development Certification](https://www.freecodecamp.org/certification/mburleson/responsive-web-design)
  
  
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mburleson.mburleson)
