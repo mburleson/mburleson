@@ -7,12 +7,13 @@ I spread happiness by combining creativity with {code} to craft websites and app
 
 * * *
 
+<img align="right" src="https://github.com/mburleson/mburleson/blob/main/c64_new.png" width="200px"/>
 <h2>How my story begins...</h2>
-<p><img align="right" src="https://github.com/mburleson/mburleson/blob/main/c64_new.png" width="200px"/>
+<p>
 I was raised on science fiction movies, books and video games. So, it wasn’t a surprise to my parents when after getting my first computer when I was 5 – a Commodore 64 – I exclaimed that I was going to be a graphic designer when I grew up. I really liked Print Shop and Color Me.  After drawing my way through high school, I went on to college to earn my degree in Graphic Design.</p>
-
+<img align="left" src="https://github.com/mburleson/mburleson/blob/main/books.png" width="125px"/>
 <h2>Then...</h2>
-<p><img align="left" src="https://github.com/mburleson/mburleson/blob/main/books.png" width="125px"/>
+<p>
 After college, while starting my career as a graphic designer designing stationary for major retail outlets, and print materials for the corporate world — I became fascinated by the web design and development. I fired up my left brain and taught myself a little bit of HTML, CSS, and JavaScript. </p>
 
 
@@ -21,11 +22,11 @@ I began designing and developing professionally and never looked back.</p>
 
 <h2>...Now</h2>
 
-I love HTML, CSS, JavaScript — the list keeps growing. One of the best parts of being in this profession is learning something new every time I tackle a big project. I love solving problems. I love the need to know how to get something to work, and not stopping until I get it right… even if it means I might stay up too late...
+I love HTML, CSS, JavaScript and learning all the cool stuff I can do with them! One of the best parts of being in this profession is learning something new every time I tackle a big project. I love solving problems. I love the need to know how to get something to work, and not stopping until I get it right… even if it means I might stay up too late...
 
 * * *
 
-<img src="https://github.com/mburleson/mburleson/blob/main/contactme.png" width="100px"/>
+<img src="https://github.com/mburleson/mburleson/blob/main/contactme.png" width="100px" align="left"/>
 
 <h2>How To Reach Me:</h2>
 
@@ -35,14 +36,25 @@ I love HTML, CSS, JavaScript — the list keeps growing. One of the best parts o
 
 * * *
  
- <img src="https://github.com/mburleson/mburleson/blob/main/keyboard.png" width="100px"/><h2>More Information:</h2>
+ <img src="https://github.com/mburleson/mburleson/blob/main/keyboard.png" width="150px" align="left" /><h2>More About Me:</h2>
+ <br/>
+ <ul>
+ <li>📖 I am currently learning Web Accessibility</li>
  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mburleson&layout=compact&theme=cobalt&show_icons=true)  
+ <li>🖥️ I am working on building more JavaScript Projects</li>
+ 
+ <li>🎨 Fun Fact about me: I love to draw and paint!</li>
+  </ul>
+  
+  
+  * * *
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mburleson&layout=compact&theme=cobalt&show_icons=true)  
  
  
  * * *
  
- <img src="https://github.com/mburleson/mburleson/blob/main/eye.png" width="100px"/>
+ <img src="https://github.com/mburleson/mburleson/blob/main/eye.png" align="left" width="100px"/>
 
 <h2>See More:</h2>
 
