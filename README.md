@@ -36,15 +36,15 @@ I love HTML, CSS, JavaScript and learning all the cool stuff I can do with them!
 
 * * *
  
- <img src="https://github.com/mburleson/mburleson/blob/main/keyboard.png" width="150px" align="left" /><h2>More About Me:</h2>
+ <img src="https://github.com/mburleson/mburleson/blob/main/keyboard.png" width="150px" align="left" />
  <br/>
- <ul>
- <li>📖 I am currently learning Web Accessibility</li>
+
+📖 I am currently learning Web Accessibility
  
- <li>🖥️ I am working on building more JavaScript Projects</li>
+🖥️ I am working on building more JavaScript Projects
  
- <li>🎨 Fun Fact about me: I love to draw and paint!</li>
-  </ul>
+🎨 Fun Fact about me: I love to draw and paint!
+
   
   
   * * *
