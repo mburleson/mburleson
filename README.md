@@ -38,12 +38,9 @@ I love HTML, CSS, JavaScript and learning all the cool stuff I can do with them!
  
  <img src="https://github.com/mburleson/mburleson/blob/main/keyboard.png" width="150px" align="left" />
  <br/>
-
-📖 I am currently learning Web Accessibility
- 
-🖥️ I am working on building more JavaScript Projects
- 
-🎨 Fun Fact about me: I love to draw and paint!
+📖 I am currently learning Web Accessibility, Three.js, and Blender
+🖥️ I am working on building more fun JavaScript Projects, and CSS Animations
+🎨 Fun Fact about me: I would love to help design and build educational games for kids!
 
   
   
