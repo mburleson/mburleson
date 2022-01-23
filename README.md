@@ -8,7 +8,7 @@ I spread happiness by combining creativity with {code} to craft websites and app
 * * *
 
 # How my story begins...
-<img align="right" src="https://github.com/mburleson/mburleson/blob/main/c64.png" width="200px"/>
+<img align="right" src="https://github.com/mburleson/mburleson/blob/main/c64_new.png" width="200px"/>
 I was raised on science fiction movies, books and video games. So, it wasn’t a surprise to my parents when after getting my first computer when I was 5 – a Commodore 64 – I exclaimed that I was going to be a graphic designer when I grew up. I really liked Print Shop and Color Me.  After drawing my way through high school, I went on to college to earn my degree in Graphic Design.
 
 ## Then...
