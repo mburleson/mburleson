@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/mburleson/mburleson/blob/main/MBLogo.png"/>
+<p align="center"><img align="center" src="https://github.com/mburleson/mburleson/blob/main/MBLogo.png"/></p>
 
 <h2 align="center">My name is Megan Burleson, and I am a Designer & Developer.</h2>
 
