@@ -38,11 +38,11 @@ I love HTML, CSS, JavaScript and learning all the cool stuff I can do with them!
 * * *
  
  <img src="https://github.com/mburleson/mburleson/blob/main/keyboard.png" width="150px" align="left" />
-📖 I am currently learning Web Accessibility, Phaser.js, Three.js, and Blender
+📖 I am currently earning a certification in Web Accessibility. 
  <br/>
 🖥️ I am working on building more fun JavaScript Projects, Games, and playing with CSS Animations
  <br/>
-🎨 Fun Fact about me: I would love to help design and build educational games for kids!
+
 
   
   
