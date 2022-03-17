@@ -6,62 +6,30 @@
 I spread happiness by combining creativity with {code} to craft websites and apps that are attractive, usable and accessible to everyone.
 </p>
 
-* * *
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mburleson&label=Profile%20views&color=0e75b6&style=flat" alt="mburleson" /> </p>
 
-<img align="right" src="https://github.com/mburleson/mburleson/blob/main/c64_new.png" width="200px"/>
-<h2>How my story begins...</h2>
-<p>
-I was raised on science fiction movies, books and video games. So, it wasn’t a surprise to my parents when after getting my first computer when I was 5 – a Commodore 64 – I exclaimed that I was going to be a graphic designer when I grew up. I really liked Print Shop and Color Me.  After drawing my way through high school, I went on to college to earn my degree in Graphic Design.</p>
-<img align="left" src="https://github.com/mburleson/mburleson/blob/main/books.png" width="125px"/>
-<h2>Then...</h2>
-<p>
-After college, while starting my career as a graphic designer designing stationary for major retail outlets, and print materials for the corporate world — I became fascinated by the web design and development. I fired up my left brain and taught myself a little bit of HTML, CSS, and JavaScript. </p>
+<p align="left"> <a href="https://twitter.com/creativityncode" target="blank"><img src="https://img.shields.io/twitter/follow/creativityncode?logo=twitter&style=for-the-badge" alt="creativityncode" /></a> </p>
 
+- 🌱 I’m currently learning **GatsbyJS and ReactJS**
 
-<p align="center">Then, in 2006, I landed my first web development job. 
-I began designing and developing professionally and never looked back.</p>
+- 👨‍💻 All of my projects are available at [https://www.behance.net/meganburleson](https://www.behance.net/meganburleson)
 
-<h2>...Now</h2>
+- 💬 Ask me about **HTML, CSS, JS, UI/UX Design**
 
-I love HTML, CSS, JavaScript and learning all the cool stuff I can do with them! One of the best parts of being in this profession is learning something new every time I tackle a big project. I love solving problems. I love the need to know how to get something to work, and not stopping until I get it right… even if it means I might stay up too late...
+- 📫 How to reach me **https://www.meganburleson.com/**
 
-* * *
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/creativityncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="creativityncode" height="30" width="40" /></a>
+<a href="https://fb.com/creativityandcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="creativityandcode" height="30" width="40" /></a>
+<a href="https://instagram.com/creativityandcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="creativityandcode" height="30" width="40" /></a>
+<a href="https://www.behance.net/meganburleson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="meganburleson" height="30" width="40" /></a>
+</p>
 
-<img src="https://github.com/mburleson/mburleson/blob/main/contactme.png" width="100px" align="left"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<h2>How To Reach Me:</h2>
-
-<p>Interested in working with me? Im always happy to talk!</p>
-
-<a href="mailto:megan@meganburleson.com">![Megan@MeganBurleson.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a><a href="https://www.linkedin.com/in/meganburleson/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-* * *
- 
- <img src="https://github.com/mburleson/mburleson/blob/main/keyboard.png" width="150px" align="left" />
-📖 I am currently earning a certification in Web Accessibility. 
- <br/>
-🖥️ I am working on building more fun JavaScript Projects, Games, and playing with CSS Animations
- <br/>
-
-
-  
-  
-  * * *
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mburleson&layout=compact&theme=cobalt&show_icons=true)  
- 
- 
- * * *
- 
- <img src="https://github.com/mburleson/mburleson/blob/main/eye.png" align="left" width="100px"/>
-
-<h2>See More:</h2>
-
-[Responsive Web Development Certification](https://www.freecodecamp.org/certification/mburleson/responsive-web-design)
- 
- 
- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mburleson.mburleson)
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mburleson&show_icons=true&locale=en&layout=compact" alt="mburleson" /></p>
 
 
 
