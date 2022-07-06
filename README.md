@@ -1,6 +1,6 @@
 <p align="center"><img align="center" width="150px" src="https://github.com/mburleson/mburleson/blob/main/bigunicorn.png"/></p>
 
-<h2 align="center">My name is Megan Burleson, and I am a Front-End Developer with an expertise in Design.</h2>
+<h2 align="center">My name is Megan Burleson, and I am a Designer who Codes.</h2>
 
 <p align="center">
 I spread happiness by combining creativity with {code} to craft websites and apps that are attractive, usable and accessible to everyone.
