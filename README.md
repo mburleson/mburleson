@@ -1,9 +1,10 @@
 <p align="center"><img align="center" width="150px" src="https://github.com/mburleson/mburleson/blob/main/bigunicorn.png"/></p>
 
-<h2 align="center">My name is Megan Burleson, and I am a Designer who Codes.</h2>
+<h2 align="center">My name is Megan Burleson, and I am a Graphic Designer & Web Developer!</h2>
+
 
 <p align="center">
-I spread happiness by combining creativity with {code} to craft websites and apps that are attractive, usable and accessible to everyone.
+I spread happiness by combining creativity with {code}!
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mburleson&label=Profile%20views&color=0e75b6&style=flat" alt="mburleson" /> </p>
