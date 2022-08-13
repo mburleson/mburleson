@@ -12,8 +12,6 @@ I spread happiness by combining creativity with {code} to craft websites and app
 
 - 🌱 I’m currently learning **GatsbyJS and ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/meganburleson](https://www.behance.net/meganburleson)
-
 - 💬 Ask me about **HTML, CSS, JS, UI/UX Design**
 
 - 📫 How to reach me **https://www.meganburleson.com/**
