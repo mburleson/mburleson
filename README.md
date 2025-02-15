@@ -7,19 +7,10 @@
 I spread happiness by combining creativity with {code}!
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mburleson&label=Profile%20views&color=0e75b6&style=flat" alt="mburleson" /> </p>
-
-<p align="left"> <a href="https://twitter.com/creativityncode" target="blank"><img src="https://img.shields.io/twitter/follow/creativityncode?logo=twitter&style=for-the-badge" alt="creativityncode" /></a> </p>
-
-
-
 - 💬 Ask me about **HTML, CSS, JS, Graphic Design, UI/UX Design, WordPress**
-
-- 📫 How to reach me **https://www.meganburleson.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/meganburleson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="creativityncode" height="30" width="40" /></a>
 <a href="https://fb.com/creativityandcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="creativityandcode" height="30" width="40" /></a>
 <a href="https://instagram.com/creativityandcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="creativityandcode" height="30" width="40" /></a>
 <a href="https://www.behance.net/meganburleson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="meganburleson" height="30" width="40" /></a>
