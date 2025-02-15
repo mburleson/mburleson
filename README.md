@@ -1,6 +1,6 @@
 <p align="center"><img align="center" width="150px" src="https://github.com/mburleson/mburleson/blob/main/bigunicorn.png"/></p>
 
-<h2 align="center">My name is Megan Burleson, and I am a Graphic Designer & Web Developer!</h2>
+<h2 align="center">My name is Megan Burleson, and I am a Graphic Designer & Frontend Developer!</h2>
 
 
 <p align="center">
@@ -13,7 +13,7 @@ I spread happiness by combining creativity with {code}!
 
 
 
-- 💬 Ask me about **HTML, CSS, JS, UI/UX Design, WordPress**
+- 💬 Ask me about **HTML, CSS, JS, Graphic Design, UI/UX Design, WordPress**
 
 - 📫 How to reach me **https://www.meganburleson.com/**
 
